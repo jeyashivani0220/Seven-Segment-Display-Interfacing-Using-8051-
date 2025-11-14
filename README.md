@@ -65,8 +65,8 @@ END
 ```
 
 ## Output:
-![mpmc exp 8a](https://github.com/user-attachments/assets/418fd914-e952-4d4f-a9fd-0d0b2cb1b49b)
-![mpmc exp 8b](https://github.com/user-attachments/assets/a2f0a26e-c0f0-4aa4-b696-0432bf13fd7e)
+![mpmc exp 8a](https://github.com/user-attachments/assets/6441ad15-8670-4e70-a2b0-2771de553d00)
+![mpmc exp 8b](https://github.com/user-attachments/assets/4758192d-fc27-476a-b586-7c504a073541)
 
 
 
